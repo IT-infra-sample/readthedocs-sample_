@@ -3,4 +3,4 @@ nav:
   - Home: index.md
   - Sample: sample.md
 theme:
-  name: material
+  name: 'rtd-dropdown'
