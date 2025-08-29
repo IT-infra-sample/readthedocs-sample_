@@ -1,6 +1,6 @@
 site_name: ReadTheDocs Sample
 nav:
   - Home: index.md
-  - Sample: sample.md
+  - 데이터 보관 및 삭제 정책: sample.md
 theme:
   name: 'rtd-dropdown'
